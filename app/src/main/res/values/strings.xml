@@ -1,0 +1,9 @@
+<resources>
+    <string name="그사" translatable="false">그사</string>
+    <string name="todo">TODO</string>
+    <string name="tode" translatable="false">TODO</string>
+    <string name="button" translatable="false">let\'s start!</string>
+    <string name="app_name" translatable="false">great bike</string>
+    <string name="자전거" translatable="false">wellcome to the great bike!</string>
+    <string name="let_s_start">let\'s start!</string>
+</resources>
